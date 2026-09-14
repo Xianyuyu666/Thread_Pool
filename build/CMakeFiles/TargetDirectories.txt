@@ -1,0 +1,3 @@
+/mnt/c/Users/48570/Desktop/thread pool/build/CMakeFiles/main.dir
+/mnt/c/Users/48570/Desktop/thread pool/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/48570/Desktop/thread pool/build/CMakeFiles/rebuild_cache.dir
