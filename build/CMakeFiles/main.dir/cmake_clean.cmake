@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/link.d"
   "CMakeFiles/main.dir/src/main.cpp.o"
   "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "CMakeFiles/main.dir/src/thread_pool.cpp.o"
+  "CMakeFiles/main.dir/src/thread_pool.cpp.o.d"
   "main"
   "main.pdb"
 )

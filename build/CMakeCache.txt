@@ -222,15 +222,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-thread_BINARY_DIR:STATIC=/mnt/c/Users/48570/Desktop/thread pool/build
-
-//Value Computed by CMake
-thread_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-thread_SOURCE_DIR:STATIC=/mnt/c/Users/48570/Desktop/thread pool
-
-//Value Computed by CMake
 threadpool_BINARY_DIR:STATIC=/mnt/c/Users/48570/Desktop/thread pool/build
 
 //Value Computed by CMake
