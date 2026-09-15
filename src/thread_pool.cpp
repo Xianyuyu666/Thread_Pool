@@ -48,14 +48,3 @@ ThreadPool::~ThreadPool()
         it.join();
     }
 }
-
-// 提交任务
-void ThreadPool::submit(std::function<void()> task)
-{
-    {
-        //lock_guard出作用域自动释放锁
-        std::lock_guard<std::mutex> lock(queue_mutex_);
-        tasks_.push(std::move(task));
-    }
-    condition_.notify_one();
-}
